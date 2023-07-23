@@ -1,0 +1,11 @@
+---
+title: Hello,World!
+author: Alex
+date: 2023-7-23
+category: Others
+layout: post
+---
+
+# Hello,World!
+
+虽然因为我的愚蠢导致耽误了进度，但是我的个人主页还是和大家见面了qwq。希望以后可以多发一些技术/生活相关的有意思的文章。

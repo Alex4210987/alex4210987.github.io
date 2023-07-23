@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+## email
+alex_xiao at hust dot edu dot cn
