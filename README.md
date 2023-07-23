@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: welcome to ALeX's blog!
 permalink: /
 ---
 
-# welcome to ALeX's blog!
