@@ -7,4 +7,5 @@ layout: post
 ---
 
 ## email
-alex_xiao at hust dot edu dot cn
+
+**alex_xiao [at] hust dot edu dot cn**
