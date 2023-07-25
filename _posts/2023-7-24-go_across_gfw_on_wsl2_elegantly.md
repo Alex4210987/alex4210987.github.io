@@ -37,7 +37,7 @@ first line is to get the host ip address form resolv.conf, where lies the DNS se
 
 second and third line is to set proxy for http and https, the last line is to set proxy for socks5.
 
-you may wonder why we use `head -1`. It's because there may be more than one ip address in the file, and we only need one. that will be explained later
+you may wonder why we use `head -1`. It's because there may be more than one ip address in the file, and we only need one. that will be explained later.
 
 ## set nameserver
 
