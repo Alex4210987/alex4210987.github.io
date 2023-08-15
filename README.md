@@ -1,12 +1,12 @@
 ---
 layout: home
-title: welcome to ALeX's blog!
+title: welcome to ^1e%'s blog!
 permalink: /
 ---
 
 hi there ~
 
-I'm A1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development,web security and computer network. 
+I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development,web security and computer network. 
 
 discussion via email is welcomed ~
 
