@@ -2,7 +2,7 @@
 title: Hello,World!
 author: Alex
 date: 2023-7-23
-category: blogs
+category: misc
 layout: post
 ---
 

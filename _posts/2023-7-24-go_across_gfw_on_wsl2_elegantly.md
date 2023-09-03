@@ -2,7 +2,7 @@
 title: How to go across the gfw on WSL2 elegantly?
 author: Alex
 date: 2023-7-24
-category: blogs
+category: tech
 layout: post
 ---
 
