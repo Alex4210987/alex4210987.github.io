@@ -1,53 +1,66 @@
 ---
-title: Oppenheimer:Don't look back in anger
+title: Oppenheimer: Don't Look Back in Anger
 author: Alex
-date: 2023-7-23
-category: movie
-layout: post
---- 
-*Oppenheimer* is a masterpiece of biographical film.
+date: 2023-07-23
+category: Movie
+layout: Post
+---
 
-I personally don't really appreciate this movie. If I watch it at home, I would probably fall asleep or quit watching it. But it's surely a interesting movie worthy of a review.
+*Oppenheimer* is a masterpiece of biographical film that explores the life of J.R. Oppenheimer, the father of the atomic bomb. While I may not personally connect with this movie, I acknowledge its significance and find it worthy of discussion.
 
 ## Nolanic
 
-Nolan is no doubt a master of film-making, and the film is very Nolanic. The movie is shot in 70mm IMAX, which is the same as Interstellar and Tenet. There are many shots of space and bomb explosion -- and many of them are not generated with CG. Those are dreamy and fantastic scenes.
+Directed by Christopher Nolan, *Oppenheimer* bears the unmistakable mark of his filmmaking style. Shot in 70mm IMAX, the film shares the grandeur of *Interstellar* and *Tenet*, featuring breathtaking scenes of space and bomb explosions—many of them achieved without CGI, lending a dreamy and immersive quality.
 
-Sound effects and editing are also brilliant. The stomping noise echoing in Oppenheimer's mind, and the demostration of the realistic sounds after the *trinity* nuclear test, and the smooth insertion of classical music and soundtrack into the plot, are all work of a master.
+The sound effects and editing in the film are nothing short of brilliant. From the haunting echoes of stomping in Oppenheimer's mind to the realistic sounds after the *Trinity* nuclear test and the seamless incorporation of classical music and soundtrack into the narrative, it's clear that a master is at work.
 
-Of all this, the topic it talks about make it a typical Nolan movie.
-
-The movie inherits 2 focuses from Nolan's previous works: 1st is his interest in science and tech, which is demosntrated in Interstellar, Inception, Tenet, etc; 2nd is his interest in war, which is demonstrated in Dunkirk, and to some extent, The Dark Knight Rises.
+Beyond technical prowess, the film delves into familiar Nolan territory. It combines two themes recurrent in his previous works: a fascination with science and technology, seen in *Interstellar*, *Inception*, and *Tenet*, and an exploration of war, as evidenced in *Dunkirk* and, to some extent, *The Dark Knight Rises*.
 
 ## The Hero
 
-The movie is about J.R. Oppenheimer, the father of the atomic bomb, especially his life leading the *Manhattan* Project and a hearing about his security clearance.
+*Oppenheimer* centers on J.R. Oppenheimer's life, particularly his leadership of the *Manhattan* Project and the subsequent security clearance hearing. It's important to note that the film isn't a straightforward biography but rather a hero's journey—how a hero is forged and ultimately brought down[^1].
 
-The movie is not a biography, but a hero story. It's about how a hero is made, and how a hero is destroyed.[^1]
+The film is divided into two acts: *fission*, which draws from Oppenheimer's memories, and *fusion*, which taps into the recollections of Admiral Strauss, the man who led the hearing and viewed Oppenheimer as a personal adversary.
 
-[^1]: The sentence is generated with copilot, but somehow appropriate. So it's kept here.
+The seamless editing weaves these two acts together, presented partly not in chronological order. The first act is captured in color, while the second is in black and white, symbolizing Oppenheimer's colorful life and Strauss's more rigid, black-and-white perspective.
 
-The 1st act, called *fisson* uses Oppenheimer's memory, while the 2nd act, called *fusion* uses those of one admiral Strauss, who led the hearing and considered Oppenheimer a personal enemy.
+The first half of the film takes us on a vibrant and romantic journey through Oppenheimer's life. We travel to Oxford, Göttingen, Leiden, and Berkeley, encountering luminaries such as Max Born, Paul Dirac, Niels Bohr, and Enrico Fermi. We also meet Oppenheimer's wife, Kitty, and his mistress, Jean Tatlock. Finally, we arrive at Los Alamos, the nexus where Oppenheimer merges physics and the New Mexico landscape.
 
-The editing blended the 2 acts together, and the acts are basically in chronological order. The 1st is photographed in color, while the 2nd is in black and white. I guess this is a metaphor: Oppenheimer's life is colorful, while Strauss's is black and white.
+Despite personal setbacks in love, politics, and science, Oppenheimer perseveres. His fame reaches its zenith after the *Trinity* nuclear test. A particularly resonant line in the film is:
 
-First half of Oppenheimer's life is certainly coloful and romantic -- the birth of a hero.
+> "Math is like reading sheet music, but physics requires one to **hear the music**."
 
-We traveled through Oxford, Göttingen, Leiden and Berkeley, and met many famous scientists, including Max Born, Paul Dirac, Niels Bohr, and Enrico Fermi. We also met Oppenheimer's wife, Kitty, and his mistress, Jean Tatlock.
+It serves as inspiration for Oppenheimer and for those, like myself, who struggle with math.
 
-Finally, we arrived at Los Alamos, where Oppenheimer led the *Manhattan* Project. It is the paradise for him, where he *combined physics and New Mexico*.
+The film could have concluded here as a celebration of American heroism if it were a typical popcorn flick.
 
-Despite setbacks in love life, political participation, and science endeavor, Oppenheimer marched on, and finally his fame reached its peak after the *trinity* nuclear test.
+## The Martyr
 
-A line especially impressed me: Math is like read sheet music, but physics needs one to hear the music. It is inspiring for Oppenheimer, and also for me, who is poor at math. :)
+Dark clouds perpetually loom over Oppenheimer's life. In Europe, he grapples with depression, even attempting to poison his tutor, as his mistress famously remarks, '*you just need to get laid*.' He also faces discrimination as a Jew.
 
-The movie would have ended here, as an ode to American heroism, if it's not a Nolan movie. 
+Upon returning to the United States, his left-wing political beliefs and a cavalier attitude towards love lead to serious troubles. These aspects not only paint a picture of him as a romantic yet eccentric genius but also serve as metaphors for both Oppenheimer's and humanity's self-destructive tendencies.
 
-## The Matyr
+One scene stands out: during an intimate moment with his mistress, he has her recite the famous lines from the Indian epic *Bhagavad Gita*:
 
-Gloomy clouds always hovers over Oppenheimer's head during his life. 
+> **Now I am become Death, the destroyer of worlds**.
 
-In Europe, he once attempted to poison his tutor because of depression.('*you just need to get laid*', as his mistress commented later) He also felt unwelcomed as a Jew.
+This haunting line continues to torment him throughout his life.
 
-Back to the states, he get into some troubles for his left-wing political views, as well as his inresponsible attitude towards love.
+The fear of the destructive power of nuclear bombs peaks after their use in World War II, at the very moment of his greatest success and fame. During a patriotic speech in front of a cheering crowd, he is haunted by the sound of stomping feet, reminiscent of a nuclear explosion. He also envisions the faces of those seemingly burned and disfigured by nuclear blasts.
+
+After the war, Oppenheimer becomes a pacifist, advocating for nuclear disarmament. The irony is palpable—the hero who created the atomic bomb now opposes it.
+
+The irony continues as his stance clashes with the wishes of certain politicians, leading to public humiliation of Admiral Strauss. A 'kangaroo court' is set up to strip Oppenheimer of his security clearance, subjecting him to torture and persecution. Nolan's use of over-the-shoulder shots, rather than the typical shot-reverse-shot technique, captures Oppenheimer's resentful gaze.
+
+Ultimately, Oppenheimer chooses to attend the hearing, becoming a martyr, albeit a tall and arrogant one.
+
+## Looking Back
+
+In the end, the film reflects on a moment by the lake in Princeton when Albert Einstein told Oppenheimer:
+
+> "When they've punished enough, they will give you salmon and salad, and tell you it's all over."
+
+More than 70 years later, we can affirm that, indeed, it is all over.
+
+
 
