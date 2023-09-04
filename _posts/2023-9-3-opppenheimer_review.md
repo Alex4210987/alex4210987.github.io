@@ -85,7 +85,7 @@ Even if new technologies that can destroy us emerge everday and politicians will
 
 Keep calm and don't panic.
 
-We might be blown into the air tomorrow ; )
+We might be blown into the air tomorrow : )
 
 ## Reference:
 - https://www.imdb.com/title/tt15398776/
