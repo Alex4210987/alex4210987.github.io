@@ -79,7 +79,7 @@ Oppenheimer was not a morally upright individual. He was irresponsible and looke
 
 Fortunately, humanity managed to navigate the Cold War without destroying the Earth.
 
-So, perhaps, just perhaps, we do not need to look back in anger. As ordinary people, a touch of numbness is necessary to thrive in the modern world. Because sicentific advances that helps the Leviathan is inevitable to come.
+So, perhaps, just perhaps, we do not need to look back in anger and aceept it all. As ordinary people, a touch of numbness is necessary to thrive in the modern world. Because sicentific advances that helps the Leviathan is inevitable to come.
 
 Even if new technologies that can destroy us emerge everday and politicians will do all they can to fuck us, we might eventually be okay. Let us believe in ourselves, even if we arn't worthy of.
 
