@@ -54,7 +54,7 @@ The irony continues as his stance clashes with the wishes of certain politicians
 
 Ultimately, Oppenheimer chooses to attend the hearing, becoming a martyr, albeit a tall and arrogant one.
 
-## Reflecting on the Past and Future
+## Looking back and forth
 
 In the end, the film reflects on a moment by the lake in Princeton when Albert Einstein told Oppenheimer:
 
