@@ -22,3 +22,9 @@ The movie inherits 2 focuses from Nolan's previous works: 1st is his interest in
 ## Hero
 
 The movie is about J.R. Oppenheimer, the father of the atomic bomb, especially his life leading the *Manhattan* Project and a hearing about his security clearance.
+
+The movie is not a biography, but a hero story. It's about how a hero is made, and how a hero is destroyed.[^1]
+
+[^1]: The sentence is generated with copilot, but somehow appropriate. So it's kept here.
+
+The 1st scene, called *fisson*, tells the story of oppenheimer
