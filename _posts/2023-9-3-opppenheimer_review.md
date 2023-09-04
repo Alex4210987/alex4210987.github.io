@@ -1,7 +1,7 @@
 ---
-title: Oppenheimer Review
+title: Oppenheimer:Don't look back in anger
 author: Alex
-date: 2023-09-03
+date: 2023-9-3
 category: Movie
 layout: Post
 ---
