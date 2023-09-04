@@ -1,5 +1,5 @@
 ---
-title: *Oppenheimer*:Don't look back in anger
+title: Oppenheimer:Don't look back in anger
 author: Alex
 date: 2023-7-23
 category: movie
@@ -27,4 +27,4 @@ The movie is not a biography, but a hero story. It's about how a hero is made, a
 
 [^1]: The sentence is generated with copilot, but somehow appropriate. So it's kept here.
 
-The 1st scene, called *fisson*, tells the story of oppenheimer
+The 1st scene, called *fisson* uses Oppenheimer's memory, while the 2nd scene, called *fusion* uses those of one admiral Strauss, who is the one who led the hearing and considered Oppenheimer a personal enemy.
