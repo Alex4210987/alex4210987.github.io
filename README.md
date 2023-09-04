@@ -11,3 +11,5 @@ I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend
 discussion via email is welcomed ~
 
 you are also welcome to chat with me offline, if you can find me(
+
+![diana](assets/gitbook/images/diana.gif)
