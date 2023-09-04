@@ -1,5 +1,5 @@
 ---
-title: Oppenheimer: Don't look back in anger
+title: Oppenheimer:Don't look back in anger
 author: Alex
 date: 2023-7-23
 category: movie
