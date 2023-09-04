@@ -4,9 +4,12 @@ author: Alex
 date: 2023-9-04
 category: movie
 layout: post
+cover: /assets/gitbook/images/Oppenheimer.jpg
 --- 
 
 *Oppenheimer* is a biographical masterpiece that delves into the life of J.R. Oppenheimer, the father of the atomic bomb. While personally, I may not connect deeply with this film, I recognize its significance and believe it merits discussion.
+
+![*Oppenheimer*]()
 
 ## Nolanic
 
@@ -88,4 +91,4 @@ Keep calm and don't panic.
 We might be blown into the air tomorrow : )
 
 ## Reference
-- https://www.imdb.com/title/tt15398776/
+- [imdb](https://www.imdb.com/title/tt15398776/)
