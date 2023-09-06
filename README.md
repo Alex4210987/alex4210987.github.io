@@ -10,7 +10,7 @@ I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend
 
 discussion via email is welcomed ~
 
-you are also welcome to chat with me offline, if you can find me(
+you are also welcomed to chat with me offline, if you can find me(
 
 plz subscribe to [nana7mi](https://space.bilibili.com/434334701) and [diana](https://space.bilibili.com/672328094) 🥹
 

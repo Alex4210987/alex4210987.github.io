@@ -12,4 +12,4 @@ layout: post
 
 晚安喵
 
-![lake](../assets/gitbook/images/lake.jpg)
+<img src="../assets/gitbook/images/lake.jpg" width="300" height="225" alt="lake">
