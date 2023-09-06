@@ -18,9 +18,9 @@ meow~~~
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="flex: 1; padding: 10px;">
-        <img src="assets/gitbook/images/nana7mi.jpg" width="250" height="250" alt="nana7mi">
+        <img src="assets/gitbook/images/nana7mi.jpg" width="150" height="150" alt="nana7mi">
     </div>
     <div style="flex: 1; padding: 10px;">
-        <img src="assets/gitbook/images/diana.gif" width="250" height="250" alt="diana">
+        <img src="assets/gitbook/images/diana.gif" width="150" height="150" alt="diana">
     </div>
 </div>
