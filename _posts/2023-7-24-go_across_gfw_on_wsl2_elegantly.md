@@ -39,6 +39,8 @@ second and third line is to set proxy for http and https, the last line is to se
 
 you may wonder why we use `head -1`. It's because there may be more than one ip address in the file, and we only need one. that will be explained later.
 
+PS: according to [@shenglisl](https://github.com/shenglisl), if you do things above, you should **NOT** use "TUN Mode" and vice versa.
+
 ## set nameserver
 
 okay, now we can access websites beyond the wall. but when we try `git push` we still get name resolution error. 
