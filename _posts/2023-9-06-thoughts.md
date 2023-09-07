@@ -2,7 +2,7 @@
 title: 随感
 author: Alex
 date: 2023-9-06
-category: writing
+category: word
 layout: post
 --- 
 

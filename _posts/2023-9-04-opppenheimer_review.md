@@ -2,7 +2,7 @@
 title: Oppenheimer:Don't look back in anger
 author: Alex
 date: 2023-9-04
-category: movie
+category: film
 layout: post
 cover: /assets/gitbook/images/oppenheimer.jpg
 --- 
