@@ -4,5 +4,4 @@ author: Alex
 date: 2023-9-04
 category: tech
 layout: post
-cover: /assets/gitbook/images/escape.jpg
 --- 
