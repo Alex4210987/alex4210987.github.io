@@ -45,8 +45,6 @@ func b() *int {
 >- Structs with pointer fields
 >- Function literals
 
->This is why looking out for pointer types is not enough to detect escaping variables. Moreover, there can be more situations that justify moving a variable to the heap. Ultimately, this is the compiler's decision. This process is called escape analysis.
-
 在`Go`中，我们可以通过`-gcflags '-m'`来查看编译器对代码的分析结果。例如：
 
 ```go
@@ -153,7 +151,61 @@ func getRandom() *int {
 >- Variables declared outside a loop outlive the assignment within the loop
 >- Variables declared outside a closure outlive the assignment within the closure
 
-逃逸分析的第二部分
+## optimization
+
+然而，并不是所有的逃逸点都需要我们将某些变量移动到堆上。比如说这段代码：
+```go
+package main
+
+func addOne(value int) int {
+	return value + 1
+}
+
+func main() {
+	value := 1
+	print(addOne(value))
+}
+```
+显然没有必要将任何变量移动到堆上。因为除了返回值，其他变量都是在函数调用结束后销毁的。
+
+我们使用一种`有向权值图`的方法进行优化。以这段代码为例：
+
+```go
+func main() {
+   n := getAnyNumber()
+   println(*n)
+}
+
+//go:noinline
+func getAnyNumber() *int {
+   l := new(int)
+   *l = 42
+
+   m := &l
+   n := &m
+   o := **n
+
+   return o
+}
+```
+
+我们把一次`赋值`看作一条边，其中`解引用`(dereferencing)的赋值权值为`1`，`取地址`(referencing)的赋值权值为`-1`。那么我们可以得到这样一张图：
+
+```
+variable o has a weight of 0, o has an edge to n
+variable n has a weight of 2, n has an edge to m
+variable m has a weight of 1, m has an edge to l
+variable l has a weight of 0, l has an edge to new(int)
+variable new(int) has a weight of -1
+```
+
+由于对于地址不能再次取地址，因此最低的权值为`-1`。也就是说，如果一个变量的权值为`-1`，那么我们需要将其移动到堆上。
+
+`loop`和`function literal`的优化方法与此类似.(to be appended)
+
+## apply to `pivot lang`
+
+to be continued
 
 ## Reference:
 
