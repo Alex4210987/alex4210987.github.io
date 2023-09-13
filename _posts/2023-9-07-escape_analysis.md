@@ -47,7 +47,6 @@ func b() *int {
 
 >This is why looking out for pointer types is not enough to detect escaping variables. Moreover, there can be more situations that justify moving a variable to the heap. Ultimately, this is the compiler's decision. This process is called escape analysis.
 
-## escape analysis
 在`Go`中，我们可以通过`-gcflags '-m'`来查看编译器对代码的分析结果。例如：
 
 ```go
@@ -115,13 +114,15 @@ func main() {
 运行结果是：
 
 ```bash
-$`go` run -gcflags="-m -l" main.go
+$ go run -gcflags="-m -l" main.go
 # command-line-arguments
 ./main.go:11:2: moved to heap: n
 ./main.go:18:16: []int{...} escapes to heap
 ./main.go:33:6: moved to heap: largeArray
 ./main.go:40:7: func literal escapes to heap
 ```
+
+## escape analysis
 
 那么这种结果是怎么获得的呢？我们来看看Go是如何进行逃逸分析的。
 
@@ -141,13 +142,18 @@ func getRandom() *int {
 }
 ```
 
-首先，我们获得她的简化语法树：
+我们获得她的简化语法树，作为分析的基础。
 
 ![simpified AST](/assets/gitbook/images/ast.jpg)
 
-接下来，我们使用一种简单但是巧妙的算法来进行逃逸分析：
 
+接着，我们要确定逃逸点，也就是那些可能逃逸的变量。逃逸点主要有以下几种：
 
+>- Any returned value outlives the function since the called function does not know the value.
+>- Variables declared outside a loop outlive the assignment within the loop
+>- Variables declared outside a closure outlive the assignment within the closure
+
+逃逸分析的第二部分
 
 ## Reference:
 
