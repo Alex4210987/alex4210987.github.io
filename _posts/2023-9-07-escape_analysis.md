@@ -205,7 +205,38 @@ variable new(int) has a weight of -1
 
 ## apply to `pivot lang`
 
-to be continued
+我们并不需要自己生成全部`AST`，而是根据用户对于接口的调用生成简化版的`AST`，接着进行权值图分析。
+
+```rust
+use std::io;
+fn main() i64 {
+    let result = returnPointer(10);
+    println!(*result);
+    return 0;
+}
+fn returnPointer(n: i64) *i64 {
+    let m = n;
+    let 
+    return &m;
+}
+```
+
+我们所需要获取的语法信息由三个部分：`变量`、`赋值`和`作用域`。
+
+当用户调用我们的接口时，我们需要：
+
+- 定义出现过的`作用域`，返回一个`scope id`：`new_scope(main)`、`new_scope(returnPointer)`。
+  
+- 定义出现过的`变量`及其所在的`作用域`，返回一个`var id`：`new_var(m, returnPointer)`、`new_var(n, returnPointer)`、`new_var(result, main)`。
+  
+- 定义出现过的`赋值`，包括`左值`、`右值`、`权值`和`作用域`，返回一个`assign id`：`new_assign(m, n, 0, returnPointer)`、`new_assign(result, m, 0, main)`。
+  
+- 定义出现过的`函数调用`，包括`函数名`、`参数`和`作用域`，返回一个`call id`：`new_call(returnPointer, 10, main)`。
+
+- 最后，给出`逃逸点`的表达式：`escape(result)`。
+
+现在，我们就可以根据如上的算法进行分析。
+
 
 ## Reference:
 
