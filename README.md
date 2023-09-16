@@ -1,6 +1,6 @@
 ---
 layout: home
-title: welcome to ^1e%'s blog!
+title: plz subscribe to nana7mi and diana 🥹
 permalink: /
 ---
 
