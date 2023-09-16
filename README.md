@@ -1,6 +1,6 @@
 ---
 layout: home
-title: plz subscribe to nana7mi and diana 🥹
+title: journal of my fucked up life
 permalink: /
 ---
 
