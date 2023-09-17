@@ -237,7 +237,6 @@ fn returnPointer(n: i64) *i64 {
 
 现在，我们就可以根据如上的算法进行分析。
 
-
 ## Reference:
 
 [**Go: Introduction to the Escape Analysis**](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
@@ -245,3 +244,7 @@ fn returnPointer(n: i64) *i64 {
 [**Source file src/cmd/compile/internal/escape/escape.go**](https://tip.golang.org/src/cmd/compile/internal/escape/escape.go)
 
 [**It escaped! How can you know if a variable lives on the stack or the heap, and why should you care?**](https://appliedgo.com/blog/how-to-do-escape-analysis)
+
+[**my repo**](https://github.com/Pivot-Studio/pivot-lang-escape-analyzer)[1]
+
+1. It may be completed much later since I've just started learning rust. Sorry for that.

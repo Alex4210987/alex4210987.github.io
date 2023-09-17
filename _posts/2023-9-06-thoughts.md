@@ -13,3 +13,9 @@ layout: post
 晚安喵
 
 <img src="../assets/gitbook/images/lake.jpg" width="300" height="225" alt="lake">
+
+my life is back on track
+
+my life is totally fucked up
+
+<img src="../assets/gitbook/images/sunset.jpg" width="300" height="225" alt="sunset">
