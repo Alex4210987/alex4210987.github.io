@@ -1,6 +1,6 @@
 ---
 layout: home
-title: journal of my fucked up life
+title: journal of my life
 permalink: /
 ---
 
