@@ -6,7 +6,7 @@ permalink: /
 
 hi there ~
 
-I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development,web security and computer network. 
+I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development, data base and computer networking. 
 
 discussion via email is welcomed ~
 
