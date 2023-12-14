@@ -6,7 +6,7 @@ permalink: /
 
 hi there ~
 
-I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development, database and computer networking. 
+I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development, database and computer system.
 
 discussion via [email](alex_xiao@hust.edu.cn) is welcomed ~
 
