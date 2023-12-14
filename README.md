@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 只要勇敢起来就好了啊
+title: 只要勇敢起来就行了
 permalink: /
 ---
 
