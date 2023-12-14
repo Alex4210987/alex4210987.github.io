@@ -1,6 +1,6 @@
 ---
 layout: home
-title: journal of my life
+title: 只要勇敢起来就好了啊
 permalink: /
 ---
 
