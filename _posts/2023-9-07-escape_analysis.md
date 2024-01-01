@@ -8,7 +8,7 @@ layout: post
 
 函数调用中，局部变量会储存在调用栈中。但有时候，局部变量从栈逃逸至堆中。
 
-本篇文章中，我们将讨论栈逃逸的原因和各种可能情况，并介绍一种简单但巧妙地分析算法，并尝试用[`rust`](https://www.rust-lang.org/)实现这种算法以用于[`pivot lang`](https://lang.pivotstudio.cn/)
+本篇文章中，我们将讨论栈逃逸的原因和各种可能情况，并介绍一种简单但巧妙地分析算法。
 
 ## heap vs stack
 
