@@ -1,5 +1,5 @@
 ---
-title: a problem about BCNF
+title: 一道数据库选择题和一个概念问题
 author: Alex
 date: 2023-11-15
 category: tech
