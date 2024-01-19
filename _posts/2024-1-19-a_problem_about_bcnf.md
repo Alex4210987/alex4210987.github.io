@@ -1,7 +1,7 @@
 ---
 title: 一道数据库选择题和一个概念问题
 author: Alex
-date: 2024-01-19
+date: 2024- 1-19
 category: tech
 layout: post
 ---
