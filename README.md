@@ -4,23 +4,17 @@ title: 只要勇敢起来就行了
 permalink: /
 ---
 
-hi there ~
+### Hi there 👋
 
-I'm ^1e%. I'm an undergraduate student based in Wuhan. I'm interested in backend development, database and computer system.
+![](https://komarev.com/ghpvc/?username=Alex4210987)
 
-discussion via [email](alex_xiao@hust.edu.cn) is welcomed ~
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Alex4210987&show_icons=true&theme=onedark">
 
-you are also welcomed to chat with me offline, if you can find me(
+![Alex's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Alex4210987&show_icons=true&count_private=true&theme=gotham)
 
-plz subscribe to [nana7mi](https://space.bilibili.com/434334701) and [diana](https://space.bilibili.com/672328094) 🥹
-
-meow~~~
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="assets/gitbook/images/nana7mi.jpg" width="150" height="150" alt="nana7mi">
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="assets/gitbook/images/diana.gif" width="150" height="150" alt="diana">
-    </div>
-</div>
+- 📫 How to reach me: alex_xiao [at] hust dot edu dot cn
+- 🦈 Please subscribe to: [Nana7mi](https://space.bilibili.com/434334701)
+- ⚽ Fan of Liverpool FC, Wuhan Tree Towns FC& member of HUST CSE FC. 
+- 😈 I'm currently learning Rust, Computer System& Backend Development. I'm also intersted in applications of LLM, as well as AI infras.
+- 😔 Weak in algorithms and physics
+- 🪄 Hope to perform magic with tech
