@@ -6,8 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-## friends
-
 [7erry's Website](http://7erry.com/)
 
 [Griffin's Blog](https://yuchenx.pages.dev/blog/)
