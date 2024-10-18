@@ -1,9 +1,3 @@
----
-layout: home
-title: 只要勇敢起来就行了
-permalink: /
----
-
 ### Hi there 👋
 
 I'm Alex Xiao, an undergraduate @[CSE@HUST](https://cse.hust.edu.cn/index.htm). I'm eager to explore various fields of computer science.
