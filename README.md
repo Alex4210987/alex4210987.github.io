@@ -24,7 +24,7 @@ No external font requests, analytics, or tracking scripts are used. Images are l
 - Fudan University: [official identity page](https://www.fudan.edu.cn/bsxt/list.htm).
 - No. 1 Middle School Affiliated to Central China Normal University: [official identity page](https://www.hzsdyfz.com.cn/culture.html).
 - Wuhan Three Towns: [Chinese Football Association club profile](https://www.thecfa.cn/jlbjsnr/20170728/19095.html).
-- HUST, Liverpool, and Coca-Cola marks: images supplied by the site owner.
+- HUST, HUST School of Cyber Science and Engineering, Liverpool, and Coca-Cola marks: images supplied by the site owner.
 
 These small marks identify the institutions, supported clubs, and the origin of Coke’s name. They retain their original designs.
 
