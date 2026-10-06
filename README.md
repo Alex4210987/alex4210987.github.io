@@ -29,3 +29,7 @@ No external font requests, analytics, or tracking scripts are used. Images are l
 These small marks identify the institutions, supported clubs, and the origin of Coke’s name. They retain their original designs.
 
 - TileLang and GPT Academic marks are from their project repositories. BitBLAS uses a neutral chip icon, not an official project logo.
+
+## Research illustrations
+
+The generic agentic-system diagram is an author-supplied image with its project-name region removed. The inference architecture is cropped from Figure 3-1 of the public thesis. The GPU scheduling overview is Figure 6 of the [Hummingbird preprint](https://arxiv.org/abs/2601.04071). Research images open at full size on click.

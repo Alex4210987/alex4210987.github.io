@@ -8,7 +8,7 @@ if (dialog && typeof dialog.showModal === 'function') {
       const image = dialog.querySelector('img');
       image.src = link.href;
       image.alt = link.querySelector('img').alt;
-      document.querySelector('#photo-caption').textContent = link.closest('figure').querySelector('figcaption').textContent;
+      document.querySelector('#photo-caption').textContent = link.closest('figure')?.querySelector('figcaption')?.textContent || image.alt;
       dialog.showModal();
     });
   });
