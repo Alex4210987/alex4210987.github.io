@@ -159,7 +159,7 @@ h2 { margin: 2.4rem 0 1rem; font-size: 1.36rem; line-height: 1.25; letter-spacin
 .experience-subsection h3 { font-size: 1.08rem; margin-bottom: 1rem; }
 .logo-gpt-academic { width: 27px; }
 
-.project { display: grid; grid-template-columns: minmax(0, 34%) minmax(0, 1fr); gap: 1.4rem; align-items: start; }
+.project { display: grid; grid-template-columns: minmax(0, 45%) minmax(0, 1fr); gap: 1.4rem; align-items: start; }
 .project-figure { display: block; margin-top: .2rem; cursor: zoom-in; }
 .project-figure img { display: block; width: 100%; height: auto; object-fit: contain; }
 .project-copy { min-width: 0; }
